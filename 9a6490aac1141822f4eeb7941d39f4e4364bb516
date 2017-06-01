@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_842554ad",
+        "filename": "rubygem-test-unit-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:39:09Z",
+      "side": 1,
+      "message": "get rid of this",
+      "revId": "9a6490aac1141822f4eeb7941d39f4e4364bb516",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_a43978da",
+        "filename": "rubygem-test-unit-rr.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:39:09Z",
+      "side": 1,
+      "message": "get rid of the %if, and get rid of the entire %else/%endif block",
+      "revId": "9a6490aac1141822f4eeb7941d39f4e4364bb516",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
